@@ -1,0 +1,15 @@
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.AssemblyInfoInputs.cache
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.AssemblyInfo.cs
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.csproj.CoreCompileInputs.cache
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/bin/Debug/net7.0/mis-221-lab-4-cdmorgan6
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/bin/Debug/net7.0/mis-221-lab-4-cdmorgan6.deps.json
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/bin/Debug/net7.0/mis-221-lab-4-cdmorgan6.runtimeconfig.json
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/bin/Debug/net7.0/mis-221-lab-4-cdmorgan6.dll
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/bin/Debug/net7.0/mis-221-lab-4-cdmorgan6.pdb
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.dll
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/refint/mis-221-lab-4-cdmorgan6.dll
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.pdb
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.genruntimeconfig.cache
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/ref/mis-221-lab-4-cdmorgan6.dll
+/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/Debug/net7.0/mis-221-lab-4-cdmorgan6.csproj.AssemblyReference.cache

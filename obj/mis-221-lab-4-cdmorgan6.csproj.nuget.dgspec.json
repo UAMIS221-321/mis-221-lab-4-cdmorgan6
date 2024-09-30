@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/mis-221-lab-4-cdmorgan6.csproj": {}
+  },
+  "projects": {
+    "/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/mis-221-lab-4-cdmorgan6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/mis-221-lab-4-cdmorgan6.csproj",
+        "projectName": "mis-221-lab-4-cdmorgan6",
+        "projectPath": "/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/mis-221-lab-4-cdmorgan6.csproj",
+        "packagesPath": "/Users/cameronmorgan/.nuget/packages/",
+        "outputPath": "/Users/cameronmorgan/Desktop/MIS LAST STRAW/LAB4/mis-221-lab-4-cdmorgan6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cameronmorgan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/cameronmorgan/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
